@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc7249d391f75459093d43cd554e1aeb5e7690e74",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x6a59917457505d0fd2527e08d007dd5a86e68253372c47718393c439202b8983",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bizarre bison",
+  "SYMBOL": "BBNFT",
+  "MAX_SUPPLY": 9500,
+  "WEI_COST": 27000000000000000,
+  "DISPLAY_COST": 27,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/bizarre-bison",
+  "SHOW_BACKGROUND": true
+}
